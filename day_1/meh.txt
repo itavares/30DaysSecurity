@@ -1,0 +1,8 @@
+This is  just a test file
+
+flag {}
+
+
+asduh_CTF{asdlas_asdkasdasklaksd_}
+
+Beee
