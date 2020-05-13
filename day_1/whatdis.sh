@@ -1,5 +1,11 @@
 #! /bin/bash
 
+#===============================
+#AUTHOR           :        Ighor Tavares (@sum_b0dy)
+#PURPOSE          :        30DaysSecurity Project
+#DAY              :        DAY - 1
+#SPECIAL NOTES    :        Feel free to use this script. Give me a shout-out if you do so :P (if you feel nice of course)
+#===============================
 
 #colors
 RED='\033[0;31m'
@@ -15,7 +21,7 @@ fi
 
 #checking dependencies
 echo ""
-check_binwalk=$(command -v binwalasdk)
+check_binwalk=$(command -v binwalk)
 if [ -z $check_binwalk ] ; then 
     echo -e "[${RED}-${NC}] ${RED}Binwalk${NC}"
     echo -e "Please, install binwalk"

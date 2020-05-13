@@ -1,3 +1,13 @@
+
+'''
+// ===============================
+// AUTHOR           :        Ighor Tavares (@sum_b0dy)
+// PURPOSE          :        30DaysSecurity Project
+// DAY              :        DAY - 4
+// SPECIAL NOTES    :        Feel free to use this script. Give me a shout-out if you do so :P (if you feel nice of course)
+// ===============================
+
+'''
 from bs4 import BeautifulSoup
 import requests
 import re

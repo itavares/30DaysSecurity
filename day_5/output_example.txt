@@ -1,0 +1,67 @@
+******************************
+Scanning File...
+******************************
+Total Scans 73
+Total Positives 58
+Summary: This indicates, 58 Anti-virus detected this file as a virus/malware and it can be harmful
+============================== POSITIVE AVS ==============================
+ANTI-VIRUS            | REPORT              
+----------------------------------------------
+ Bkav                 | W32.FamVT.RorenNHc.Trojan
+ MicroWorld-eScan     | Trojan.CryptZ.Gen   
+ FireEye              | Generic.mg.a4795c7bfd56f4ca
+ CAT-QuickHeal        | Trojan.Swrort.A     
+ McAfee               | Swrort.i            
+ Cylance              | Unsafe              
+ SUPERAntiSpyware     | Trojan.Backdoor-PoisonIvy
+ Sangfor              | Malware             
+ K7AntiVirus          | Trojan ( 004c49f81 )
+ K7GW                 | Trojan ( 004c49f81 )
+ Cybereason           | malicious.bfd56f    
+ Arcabit              | Trojan.CryptZ.Gen   
+ Invincea             | heuristic           
+ F-Prot               | W32/Swrort.A.gen!Eldorado
+ Symantec             | Packed.Generic.347  
+ APEX                 | Malicious           
+ Avast                | Win32:SwPatch [Wrm] 
+ ClamAV               | Win.Trojan.MSShellcode-7
+ Kaspersky            | HEUR:Trojan.Win32.Generic
+ BitDefender          | Trojan.CryptZ.Gen   
+ NANO-Antivirus       | Trojan.Win32.Shellcode.ewfvwj
+ Rising               | HackTool.Swrort!1.6477 (CLASSIC)
+ Endgame              | malicious (high confidence)
+ Sophos               | Mal/EncPk-TZ        
+ Comodo               | TrojWare.Win32.Rozena.A@4jwdqr
+ F-Secure             | Trojan.TR/Crypt.EPACK.Gen2
+ DrWeb                | Trojan.Swrort.1     
+ VIPRE                | Trojan.Win32.Swrort.B (v)
+ TrendMicro           | BKDR_SWRORT.SM      
+ McAfee-GW-Edition    | BehavesLike.Win32.Swrort.lh
+ Trapmine             | malicious.high.ml.score
+ Emsisoft             | Trojan.CryptZ.Gen (B)
+ SentinelOne          | DFI - Malicious PE  
+ Cyren                | W32/Swrort.A.gen!Eldorado
+ Webroot              | W32.Malware.Gen     
+ Avira                | TR/Crypt.EPACK.Gen2 
+ Fortinet             | W32/Generic.AC.C0!tr
+ Antiy-AVL            | Trojan/Win32.Rozena.ed
+ Microsoft            | Trojan:Win32/Meterpreter.O
+ ViRobot              | Trojan.Win32.Elzob.Gen
+ ZoneAlarm            | HEUR:Trojan.Win32.Generic
+ AhnLab-V3            | Trojan/Win32.Shell.R1283
+ Acronis              | suspicious          
+ BitDefenderTheta     | Gen:NN.ZexaF.34108.eq1@amMMDagi
+ ALYac                | Trojan.CryptZ.Gen   
+ MAX                  | malware (ai score=87)
+ Ad-Aware             | Trojan.CryptZ.Gen   
+ Malwarebytes         | Trojan.Rozena       
+ ESET-NOD32           | a variant of Win32/Rozena.ED
+ TrendMicro-HouseCall | BKDR_SWRORT.SM      
+ Yandex               | Trojan.Rosena.Gen.1 
+ Ikarus               | Trojan.Win32.Swrort 
+ eGambit              | Trojan.Generic      
+ GData                | Trojan.CryptZ.Gen   
+ MaxSecure            | Trojan.Malware.121218.susgen
+ AVG                  | Win32:SwPatch [Wrm] 
+ CrowdStrike          | win/malicious_confidence_100% (D)
+ Qihoo-360            | HEUR/QVM20.1.3084.Malware.Gen

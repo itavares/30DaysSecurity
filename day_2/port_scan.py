@@ -1,3 +1,13 @@
+
+'''
+// ===============================
+// AUTHOR           :        Ighor Tavares (@sum_b0dy)
+// PURPOSE          :        30DaysSecurity Project
+// DAY              :        DAY - 2
+// SPECIAL NOTES    :        Feel free to use this script. Give me a shout-out if you do so :P (if you feel nice of course)
+// ===============================
+
+'''
 import socket
 import sys
 import subprocess

@@ -38,7 +38,12 @@ URL scraper. Python script that scrapes gives URL for all "live" links.
 
 ## Day 5
 
-TBD
+Simple virus file checker. Given input file uses VirusTotal API to provide some information about the file.
+
+NOTE: This script requires VirusTotal PublicAPI
+
+- Provides every AV positive results and reason
+- Gives the number of positive report
 
 ## Day 6
 

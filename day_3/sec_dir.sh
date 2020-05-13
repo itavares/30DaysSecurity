@@ -1,5 +1,14 @@
 #!/bin/bash
 
+
+
+#===============================
+#AUTHOR           :        Ighor Tavares (@sum_b0dy)
+#PURPOSE          :        30DaysSecurity Project
+#DAY              :        DAY - 3
+#SPECIAL NOTES    :        Feel free to use this script. Give me a shout-out if you do so :P (if you feel nice of course)
+#===============================
+
 #give option menu
 # 1 - encryp folder
 # 2 - decrypt folder
