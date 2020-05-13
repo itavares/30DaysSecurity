@@ -19,7 +19,7 @@ def check_file(input_file):
     print("*"*30)
     url = 'https://www.virustotal.com/vtapi/v2/file/report'
 
-    params = {'apikey': '<VIRUS TOTAL PUBLIC API HERE>', 'resource': input_file}
+    params = {'apikey': '<PUBLIC API KEY HERE>', 'resource': input_file}
 
     response = requests.get(url, params=params)
 
