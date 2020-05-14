@@ -47,7 +47,10 @@ NOTE: This script requires VirusTotal PublicAPI
 
 ## Day 6
 
-TBD
+Powershell script to search for process names and "kill" them. For example, if you search for "sla" , it will show all processes that contains the input, like "slack"
+
+- Shows processes names before killing it 
+- Menu user friendly
 
 ## Day 7
 
